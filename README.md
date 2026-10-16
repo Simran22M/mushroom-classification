@@ -35,7 +35,6 @@ Neighbors (KNN).
 5-fold cross-validation mean: Decision Tree [0.996182796513831], KNN [0.9133194391815082]
 
 ## Conclusion
-## 5. Conclusion
 Both the Decision Tree and KNN achieved 100% accuracy on the test set with
 zero false negatives, so neither was better in terms of accuracy. This is
 because the mushroom dataset has strongly separable features such as odor.
